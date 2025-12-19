@@ -1,7 +1,0 @@
-project_id = "elzziotkdtsqpcdpozjb"
-
-[functions.admin-get-profiles]
-verify_jwt = false
-
-[functions.admin-update-profile]
-verify_jwt = false
